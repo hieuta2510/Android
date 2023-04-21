@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">De5</string>
+    <string-array name="gioiTinh">
+        <item>Nam</item>
+        <item>Nu</item>
+        <item>Manh</item>
+    </string-array>
+</resources>
