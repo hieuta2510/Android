@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">De4</string>
+    <string-array name="DSTacGia">
+        <item>Nguyen Manh Son</item>
+        <item>Nguyen Duy Phuong</item>
+        <item>Tran Dinh Que</item>
+    </string-array>
+</resources>
